@@ -34,7 +34,7 @@ Ensure you have the following:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/self-driving-rc-car.git
+   git clone https://github.com/varuunnn216/self-driving-rc-car.git
    cd self-driving-rc-car
 
 2. **Install Dependencies**:
