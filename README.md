@@ -55,3 +55,7 @@ The car will begin autonomous navigation.
 ## 🌟Acknowledgments
 Special thanks to the open-source community for providing valuable resources on IoT and autonomous navigation.
 Inspired by advancements in self-driving technologies and their real-world applications.
+
+## License
+
+[MIT](LICENSE) © 2026 Varun Singh · See [CONTRIBUTING.md](CONTRIBUTING.md) and [SECURITY.md](SECURITY.md).
