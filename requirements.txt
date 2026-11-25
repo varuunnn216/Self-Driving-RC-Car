@@ -1,0 +1,10 @@
+# Core Python dependencies used in Implementation/
+# Note: ROS / Gazebo packages (rospy, gazebo_msgs, geometry_msgs, nav_msgs, sensor_msgs)
+# are provided by the system ROS environment.
+boto3
+gym
+numpy
+Pillow
+protobuf
+rl-coach
+tensorflow
